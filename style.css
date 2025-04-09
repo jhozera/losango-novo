@@ -22,6 +22,8 @@ nav{
     padding: 10px;
 }
 
+
+
 .button-nav{
     display: flex;
     height: 40px;
@@ -45,7 +47,7 @@ nav{
 }
 
 
-  .banner {
+.banner {
     position: relative;
     display: flex;
     align-items: center;
@@ -679,7 +681,7 @@ button:focus {
   }
 
   .text h1 {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .text{
